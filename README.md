@@ -3,8 +3,7 @@
 A native Android to-do app with a sortable/scrollable table view, a Huawei-style calendar,
 and **Moe Assist** - a built-in assistant that turns plain conversation into structured tasks.
 
-This folder contains the signed release APK for this version. No source code is included here;
-see the main repository for that.
+This folder contains the signed release APK for this version. No source code is included here.
 
 ## What's in this release
 
