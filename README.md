@@ -17,7 +17,7 @@ see the main repository for that.
   its tasks below, scrollable
 - **Categories** (Work / Personal) and an automatically-derived **status** (Overdue / Due soon /
   Upcoming / Completed) - never stored, always accurate
-- **Tick to complete** anywhere in the app — greys out and strikes through in place rather than
+- **Tick to complete** anywhere in the app - greys out and strikes through in place rather than
   disappearing; long-press any task to edit, mark complete/active, or delete
 - **Reminders** - a one-off heads-up before the deadline, optional daily reminders on chosen
   weekdays, and a twice-daily (9am/3pm) nag for anything that's gone overdue, until it's resolved
