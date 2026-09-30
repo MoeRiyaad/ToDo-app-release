@@ -1,4 +1,4 @@
-# TodoTable — v1.0.0
+# TodoTable - v1.0.0
 
 A native Android to-do app with a sortable/scrollable table view, a Huawei-style calendar,
 and **Moe Assist** - a built-in assistant that turns plain conversation into structured tasks.
