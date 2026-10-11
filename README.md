@@ -28,6 +28,7 @@ This folder contains the signed release APK for this version. No source code is 
 - **Manage Columns** - add, edit, reorder, and delete custom columns, each with its own per-task
   value entered right in the Add/Edit screen
 - **Import/export** your tasks as JSON, and full **dark mode** support throughout
+- **Sign/Create Account** as a firebase account to be able to sync across multiple devices!
 
 ## Installation
 
